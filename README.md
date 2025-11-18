@@ -136,8 +136,7 @@ Users can filter data by:
 ## **🔗 Connect With Me**
 
 If you like this project, feel free to connect:
-* **LinkedIn:** *Your LinkedIn link*
-
+* LinkedIn: https://www.linkedin.com/in/shohrat-waquar-b5a813288/
 ---
 
 ## **📥 How to Use**
