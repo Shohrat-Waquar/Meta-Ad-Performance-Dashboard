@@ -121,10 +121,7 @@ Users can filter data by:
 
 ## **📸 Dashboard Preview**
 
-*(Insert your dashboard image here)*
-Example:
-`![Meta Ad Dashboard](./assets/meta_dashboard.png)`
-
+* https://github.com/Shohrat-Waquar/Meta-Ad-Performance-Dashboard/blob/main/Dashboard.png
 ---
 
 ## **💡 Future Improvements**
